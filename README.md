@@ -1,8 +1,29 @@
-# React + Vite
+**Logo in Navigation bar is designed using "Bing Copilot Designer"**
+**Background color combination use: https://colorhunt.co/palette/008dda41c9e2ace2e1f7eedd**
+**Background texture: https://www.transparenttextures.com/patterns/buried.png**
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**To Run**
 
-Currently, two official plugins are available:
+1) Clone the Repository
+    `git clone https://github.com/HKalithkar/travel_website.git`
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+2) Install all the dependencies
+    `npm install`
+
+3) Run the application
+    `npm run dev`
+
+4) Application is running on http://localhost:5173/
+
+**Screenshots**
+
+![Screenshot1](https://github.com/HKalithkar/travel_website/blob/main/screenshots/Screenshot-1.png)
+
+
+![Screenshot2](https://github.com/HKalithkar/travel_website/blob/main/screenshots/Screenshot-2.png)
+
+
+![Screenshot1](https://github.com/HKalithkar/travel_website/blob/main/screenshots/Screenshot-3.png)
+
+
+![Screenshot2](https://github.com/HKalithkar/travel_website/blob/main/screenshots/Screenshot-4.png)
