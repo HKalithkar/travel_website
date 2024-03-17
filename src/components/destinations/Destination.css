@@ -1,0 +1,41 @@
+#destinations {
+    background-color: #ACE2E1;
+    background-image: url("https://www.transparenttextures.com/patterns/buried.png");
+    padding-top: 50px;
+}
+
+.destinations-header {
+    text-align: center;
+}
+
+.destinations-main {
+    width: 80vw;
+    margin: auto;
+    padding: 50px 0;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    justify-content: center;
+    gap: 50px;
+    
+}
+
+.btn-custom {
+    display: block;
+    background-color: #41C9E2;
+}
+
+.btn-custom:hover {
+    background-color: #ACE2E1;
+}
+
+.card {
+    box-shadow: -2px -2px #41c9e2;
+}
+
+.card-img-top {
+    height: 200px;
+}
+
+.card-text {
+    height: 220px;
+}

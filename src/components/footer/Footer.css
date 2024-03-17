@@ -1,0 +1,10 @@
+footer {
+    text-align: center;
+    padding: 25px;
+    background-color: #F7EEDD;
+    background-image: url("https://www.transparenttextures.com/patterns/buried.png");
+}
+
+footer > p {
+    margin: 0;
+}

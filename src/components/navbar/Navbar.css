@@ -1,0 +1,50 @@
+.navbar {
+    padding: 10px;
+    background-color: #008dda;
+    background-image: url("https://www.transparenttextures.com/patterns/buried.png");
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.navbar-title {
+    color: white;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex: 1;
+    gap: 10px;
+}
+
+.navbar-sections {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex: 1;
+    gap: 50px;
+}
+
+.navbar-contact {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    flex: 1;
+}
+
+.logo {
+    border: 2px solid #41C9E2;
+    border-radius: 50%;
+}
+
+.navbar-links {
+    text-decoration: none;
+    color: white;
+}
+
+.navbar-links:hover {
+    color: #ACE2E1;
+}
+
+.navbar h3, .navbar h4 {
+    margin: 0;
+}

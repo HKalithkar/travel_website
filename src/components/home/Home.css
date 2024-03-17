@@ -1,0 +1,12 @@
+#home {
+    background-color: #41c9e2;
+    background-image: url("https://www.transparenttextures.com/patterns/buried.png");
+}
+
+.d-block {
+    width: 95vw !important;
+    height: 85vh;
+    margin: 15px auto;
+    border: 2px solid #F7EEDD;
+    border-radius: 20px;
+}

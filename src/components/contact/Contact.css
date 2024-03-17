@@ -1,0 +1,28 @@
+.contact {
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #41c9e2;
+    background-image: url("https://www.transparenttextures.com/patterns/buried.png");
+}
+
+.contact > form {
+    background-color: #ACE2E1;
+    background-image: url("https://www.transparenttextures.com/patterns/buried.png");
+    border-radius: 20px;
+}
+
+.contact label {
+    display: block;
+}
+
+.contact input, .contact textarea {
+    width: 300px;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.contact > form > div {
+    margin: 15px;
+}
