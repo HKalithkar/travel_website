@@ -1,6 +1,8 @@
-> **Logo in Navigation bar is designed using "Bing Copilot Designer"**
-> **Background color combination use: https://colorhunt.co/palette/008dda41c9e2ace2e1f7eedd**
-> **Background texture: https://www.transparenttextures.com/patterns/buried.png**
+**Logo in Navigation bar is designed using "Bing Copilot Designer"**
+
+**Background color combination use: https://colorhunt.co/palette/008dda41c9e2ace2e1f7eedd**
+
+**Background texture: https://www.transparenttextures.com/patterns/buried.png**
 
 **To Run**
 
