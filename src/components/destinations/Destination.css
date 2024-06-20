@@ -30,6 +30,7 @@
 
 .card {
     box-shadow: -2px -2px #41c9e2;
+    margin: auto;
 }
 
 .card-img-top {
@@ -38,4 +39,16 @@
 
 .card-text {
     height: 220px;
+}
+
+@media (min-width: 650px) and (max-width: 1000px) {
+    .destinations-main {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (max-width: 650px) {
+    .destinations-main {
+        grid-template-columns: 1fr;
+    }
 }
